@@ -1,6 +1,5 @@
 
 **Date:** 22 May 2026  
-**Operator:** Captain  
 **Target:** lock.htb (10.129.1.185)  
 **Assessment Type:** Solo Black-Box (authorized HTB lab)  
 **Platform:** Windows Server 2022 · Workgroup **LOCK**  
